@@ -5,9 +5,9 @@ My name is Ravi , and I'm currently pursuing Integrated Msc. (MatheMatics and Co
 - 👨‍💻
 - 🤔 I’m looking for help with ...
 - 💬 Ask me anything, I am always happy to help.
-- 📫 How to reach me :[<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/e8868d0b-2b7e-48b8-a10d-a4bb5ab60730" />(ravikumarswn5@gmail.com)](ravikumarswn5@gmail.com)
+- 📫 How to reach me :[<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/e8868d0b-2b7e-48b8-a10d-a4bb5ab60730" />](ravikumarswn5@gmail.com)
 
-- 📫 How to reach me:[here](https://linkedin.com/in/ravi-kumar-b2110223a)
+- 📫 How to reach me:[ravi-kumar-b2110223a](https://linkedin.com/in/ravi-kumar-b2110223a)
   
 <!--
 **RaviRaghuv/RaviRaghuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
