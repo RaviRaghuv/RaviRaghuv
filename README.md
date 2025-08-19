@@ -1,11 +1,9 @@
 ## Hi there 👋
 My name is Ravi , and I'm currently pursuing Integrated Msc. (MatheMatics and Computing) From BIT MESRA , Ranchi
 - 🔭 I’m currently working on HelloCreator , building mock stock trading application
-- 🌱 I’m currently learning TypeScript , ReactJs'
-- 👨‍💻
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning TypeScript , React.Js
 - 💬 Ask me anything, I am always happy to help.
-- 📫 How to reach me :[<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/e8868d0b-2b7e-48b8-a10d-a4bb5ab60730" />](ravikumarswn5@gmail.com)
+- 📫 How to reach me :[Email](ravikumarswn5@gmail.com)
 
 - 📫 How to reach me:[ravi-kumar-b2110223a](https://linkedin.com/in/ravi-kumar-b2110223a)
   
