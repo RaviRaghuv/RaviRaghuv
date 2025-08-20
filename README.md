@@ -1,6 +1,6 @@
-<img src="https://drive.google.com/uc?export=view&id=1UA0KnpsS8CMpRxrom0T0chbyOssl7y6S" 
+<!-- <img src="https://drive.google.com/uc?export=view&id=1UA0KnpsS8CMpRxrom0T0chbyOssl7y6S" 
      alt="WHOLESOME CODING GIF" 
-     style="width: 100vw;" />
+     style="width: 100vw;" /> -->
 
 
 <h1 align="center">Hi 👋, I'm Ravi</h1>
