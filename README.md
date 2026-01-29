@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on HelloCreator , building mock stock trading application
+- 🔭 I’m currently working on HeavydutyFit , building mock stock trading application
 - 🌱 I’m currently learning TypeScript , React.Js
 - 💬 Ask me anything, I am always happy to help.
 - 📫 &nbsp;  How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ravikumarswn5@gmail.com)<br>
